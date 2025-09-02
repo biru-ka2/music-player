@@ -14,7 +14,7 @@ Follow these steps to set up and run Temene on your local machine.
 
    ```bash
 
-   https://github.com/zelalem61/music-player.git
+   https://github.com/biru-ka2/music-player.git
    cd music_frontend
 
    ```
